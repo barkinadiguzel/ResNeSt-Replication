@@ -1,4 +1,4 @@
-# 🌌 ResNeSt-Replication — Split-Attention ResNet
+# 🍬 ResNeSt-Replication — Split-Attention ResNet
 
 This repository provides a **faithful PyTorch replication** of the  
 **ResNeSt architecture** for image recognition tasks.
@@ -9,7 +9,6 @@ The code is modular, interpretable, and ideal for research or educational purpos
 Highlights include:
 
 * Residual bottleneck blocks with **split-attention** ✨  
-* Radix-major feature aggregation 🔮  
 * Modular implementation using standard CNN layers 🧩  
 
 Paper reference: *[ResNeSt: Split-Attention Networks](https://arxiv.org/abs/2004.08955)*
